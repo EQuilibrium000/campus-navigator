@@ -1,6 +1,6 @@
-# campus-navigator
+# FUTA Campus Navigator
 
-> My lovely Nuxt.js project
+> A mobile map navigator to help you find your way around the Federal University of Technology, Akure
 
 ## Build Setup
 
